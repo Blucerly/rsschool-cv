@@ -1,8 +1,8 @@
 # Bezverkhniy Dmitriy
 ## My contact :
-* tel: 8-906-403-25-31
-* mail: blucerly@vk.com
-* discord: Krist(@Blucerly)
+##### tel: 8-906-403-25-31
+##### mail: blucerly@vk.com
+##### discord: Krist(@Blucerly)
 ***
 ## About me
 ##### There is no experience in development, but there is a great desire to acquire the necessary skills for employment. To do this, I take a courses and study additional materials.
@@ -24,8 +24,8 @@ function multiply(a, b) {
 ```
 ***
 ### Education
-* RS School
-* YouTube
+##### RS School
+##### YouTube
 ***
 ### Language
 ##### English - A1
