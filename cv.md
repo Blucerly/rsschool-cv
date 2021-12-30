@@ -12,7 +12,6 @@
 2. CSS
 3. Flex
 4. Git, GitHub
-***
 ## My project
 [https://github.com/Blucerly/rsschool-cv](GitHub)
 ***
