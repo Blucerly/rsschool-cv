@@ -14,7 +14,7 @@
 4. Git, GitHub
 ## My project
 [https://github.com/Blucerly/rsschool-cv](GitHub)
-***
+
 ### Code example
 ```
 function multiply(a, b) {
